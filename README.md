@@ -1,5 +1,5 @@
 # indiemusicfeedback
-/IndieMusicFeedback is a music feedback subreddit. After commenting on 5 other posts, users upload a link with their song on it and mark a genre.
+r/IndieMusicFeedback is a music feedback subreddit. After commenting on 5 other posts, users upload a link with their song on it and mark a genre.
 # Questions
 In the month of December 2020:
   - What genre is posted the most frequently in r/IndieMusicFeedback?
