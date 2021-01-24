@@ -7,7 +7,8 @@ In the month of December 2020:
 # Data
 Using the Reddit API, I scraped around 900 posts from r/IndieMusicFeedback all from December 2020.
 # Results
-The genre posted by most users was Alternative Rock
+The genre posted by most users was Alternative Rock.
+
 Most users redirect their posts to youtube.
 
 
